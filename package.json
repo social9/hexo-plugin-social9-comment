@@ -1,0 +1,22 @@
+{
+  "name": "hexo-social9-comment",
+  "version": "1.0.0",
+  "description": "Social9 social sharing plugin provides you beautiful buttons, sharing capabilities, and analytics. (20+ buttons- Whatsapp, Facebook, Twitter, LinkedIn, Reddit, and many more...)",
+  "keywords": [
+    "helper",
+    "plugin",
+    "hexo",
+    "social9",
+    "comment"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Social9 Team",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social9/hexo-social9-comment.git"
+  },
+  "license": "MIT"
+}
